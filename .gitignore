@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,6 +6,26 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+
+# IDE
+.vs/
 .vscode/
 .idea/
+
+# OS
 .DS_Store
+
+# Generated project files
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# Unity packages cache
+Packages/manifest.json.meta
+Packages/packages-lock.json.meta
+
+# Logs
+UpgradeLog.htm
