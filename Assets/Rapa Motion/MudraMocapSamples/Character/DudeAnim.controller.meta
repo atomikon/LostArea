@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baf562d9c9771844e9516629bcd73947
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 338132
+  packageName: Mudra Mocap
+  packageVersion: 1.0
+  assetPath: Assets/Rapa Motion/MudraMocapSamples/Character/DudeAnim.controller
+  uploadId: 800400
