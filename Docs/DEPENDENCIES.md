@@ -3,7 +3,7 @@
 This project pins exact dependency versions to avoid unexpected behavior changes.
 
 ## Engine
-- Unity: 2022.3 LTS (pin exact patch version you install, do not change during production)
+- Unity: 6000.3.8f1 (LTS, pinned – do not change during production)
 
 ## Networking
 - FishNet: Networking Evolved — pin exact version installed in the project
